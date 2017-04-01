@@ -10,6 +10,7 @@ using NetOffice.OfficeApi.Enums;
 using VBIDE = NetOffice.VBIDEApi;
 using NetOffice.VBIDEApi.Enums;
 
+
 namespace ExcelOPCUAPrototype
 {
     public partial class MyTaskPane : UserControl , Excel.Tools.ITaskPane
@@ -54,5 +55,10 @@ namespace ExcelOPCUAPrototype
         }
 
         #endregion
+
+        private void OpenOPCUAMain_Click(object sender, EventArgs e)
+        {
+            new MainFormOPCUA();
+        }
     }
 }

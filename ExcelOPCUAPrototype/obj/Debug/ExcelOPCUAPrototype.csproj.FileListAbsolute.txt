@@ -1,0 +1,14 @@
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\ExcelOPCUAPrototype.dll
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\ExcelOPCUAPrototype.pdb
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\ExcelApi.dll
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\NetOffice.dll
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\OfficeApi.dll
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\VBIDEApi.dll
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\stdole.dll
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\ExcelApi.xml
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\OfficeApi.xml
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\VBIDEApi.xml
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\NetOffice.xml
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.dll
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.pdb
