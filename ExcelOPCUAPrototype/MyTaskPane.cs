@@ -58,8 +58,22 @@ namespace ExcelOPCUAPrototype
 
         private void OpenOPCUAMain_Click(object sender, EventArgs e)
         {
-            MainFormOPCUA mainForm = new MainFormOPCUA();
-            mainForm.Activate();
+
+            // Initialize the user interface.
+            //System.Windows.Forms.Application.EnableVisualStyles();
+            //System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+
+            try
+            {
+
+                // run the application interactively.
+                System.Windows.Forms.Application.Run(new MainFormOPCUA());
+            }
+            catch
+            {
+                MessageBox.Show("Fehler");
+                return;
+            }
         }
     }
 }

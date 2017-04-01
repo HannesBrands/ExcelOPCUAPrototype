@@ -15,3 +15,4 @@ C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.MyTaskPane.resources
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.csproj.GenerateResource.Cache
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.MainFormOPCUA.resources
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.csprojResolveAssemblyReference.cache
