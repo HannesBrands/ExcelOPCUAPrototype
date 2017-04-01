@@ -9,6 +9,9 @@ C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\OfficeApi.xml
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\VBIDEApi.xml
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\NetOffice.xml
-C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.csprojResolveAssemblyReference.cache
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.dll
 C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.pdb
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\bin\Debug\ExcelOPCUAPrototype.tlb
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.MyTaskPane.resources
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.csproj.GenerateResource.Cache
+C:\Users\Hannes\OneDrive\BA\Visual Studio Projects\UdemyGit\ExcelOPCUAPrototype\ExcelOPCUAPrototype\obj\Debug\ExcelOPCUAPrototype.MainFormOPCUA.resources

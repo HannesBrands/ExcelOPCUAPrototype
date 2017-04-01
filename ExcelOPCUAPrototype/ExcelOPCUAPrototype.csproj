@@ -78,6 +78,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="MainFormOPCUA.resx">
+      <DependentUpon>MainFormOPCUA.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MyTaskPane.resx">
       <DependentUpon>MyTaskPane.cs</DependentUpon>
     </EmbeddedResource>
